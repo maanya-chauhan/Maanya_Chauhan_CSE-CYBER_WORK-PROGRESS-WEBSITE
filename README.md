@@ -10,7 +10,7 @@ TEAM MEMBERS -
    
    •	KAVYA SHARMA    (2401410008)
 __________________________________________________________________________________________________________________________________________________________________________________________________
-Work Progress successfully simplifies task management for everyday users.It delivers speed, accessibility, and usability without complexity.Users can easily add, organize, and prioritize their to-do lists without any hassle.No sign-up required, ensuring instant access.
+Work Progress simplifies task management for everyday users.It delivers speed, accessibility, and usability without complexity.Users can easily add, organize, and prioritize their to-do lists without any hassle.No sign-up required, ensuring instant access.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________
 VIDEO DESCRIPTION-
